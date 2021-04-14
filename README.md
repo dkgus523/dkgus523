@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 ![dkgus523's github stats](https://github-readme-stats.vercel.app/api?username=dkgus523&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dkgus523)](https://solved.ac/dkgus523)
